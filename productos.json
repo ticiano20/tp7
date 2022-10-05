@@ -1,0 +1,17 @@
+[
+    {"title":"Merdeces",
+    "price":4400,
+    "thumbnail":"https://cloudfront-us-east-1.images.arcpublishing.com/infobae/BWADJ5K64ZH3FLJAOW3VVVS5MU.jpg",
+    "id":1
+    },
+    {"title":"Ferrari",
+    "price":3300,
+    "thumbnail":"https://phantom-marca.unidadeditorial.es/e553d0461c274fc209cfb44e4e51d0ae/resize/1320/f/jpg/assets/multimedia/imagenes/2022/03/02/16462085607045.jpg",
+    "id":2
+},
+{"title":"RedBull",
+"price":2200,
+"thumbnail":"https://library.sportingnews.com/styles/twitter_card_120x120/s3/2022-02/11aa%20%2818%29_0.png?itok=5LU8jAZB",
+"id":3
+}
+]
